@@ -1,0 +1,7 @@
+.build/
+bin/
+backup/
+
+# Kept off GitHub (added 2026-11-05): backup copies
+*.bak
+*.bak-*
